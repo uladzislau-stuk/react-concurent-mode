@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# WEB IDE project settings
+.idea
+
 # testing
 /coverage
 
